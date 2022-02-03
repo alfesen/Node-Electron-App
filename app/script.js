@@ -9,7 +9,7 @@ const status = {
 };
 
 class App extends React.Component {
-
+  
   render() {
 
     const { status } = this.state;
